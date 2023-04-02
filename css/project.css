@@ -1,0 +1,15 @@
+
+.project-grid {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-top: 2%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+#btn{
+    margin: 30px 0 2px 700px;
+}
